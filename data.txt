@@ -1,1 +1,6 @@
 I am going to codes for given data structure.
+
+Linked list
+Stack
+Array
+Doubly LinkedList
