@@ -4,3 +4,6 @@ Linked list
 Stack
 Array
 Doubly LinkedList
+
+Map
+Graph
