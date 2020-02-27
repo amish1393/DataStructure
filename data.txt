@@ -7,3 +7,8 @@ Doubly LinkedList
 
 Map
 Graph
+
+
+Serching Algoritham
+
+Sorting Algorith
